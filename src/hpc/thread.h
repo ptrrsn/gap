@@ -11,7 +11,7 @@
 #ifndef GAP_THREAD_H
 #define GAP_THREAD_H
 
-#include "common.h"
+#include "../common.h"
 
 #if !defined(HPCGAP)
 
