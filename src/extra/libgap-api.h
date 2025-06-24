@@ -6,6 +6,7 @@
 **  to list here. Please refer to the COPYRIGHT file for details.
 **
 **  SPDX-License-Identifier: GPL-2.0-or-later
+**
 **  This header includes LibGAP API, the API for using GAP as shared library.
 */
 
